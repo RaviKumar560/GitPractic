@@ -8,8 +8,16 @@ public class RestControllers {
 	
 	@GetMapping("/")
 	public String Display() {
-		return "welcome to Samosa  ";
+		String s1="hello";
+		String s2="good Morning";
+		String s3="Rajat";
+
+		
+
+		return s1+" "+s2+" "+s3;
 		
 	}
+
+
 
 }
