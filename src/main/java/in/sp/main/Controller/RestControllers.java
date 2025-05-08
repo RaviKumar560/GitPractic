@@ -8,7 +8,7 @@ public class RestControllers {
 	
 	@GetMapping("/")
 	public String Display() {
-		return "welcome to Springboot ";
+		return "welcome to marvel  ";
 		
 	}
 
