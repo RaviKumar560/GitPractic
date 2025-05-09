@@ -10,15 +10,15 @@ public class RestControllers {
 	public String Display() {
 
 <<<<<<< HEAD
-		return " i am trying to learn project cloning in github ";
+	
 =======
-		return "welcome to Samosa  ";
+	
 
 		String s1="hello";
 		String s2="good Morning";
 		String s3="Rajat";
 		String s4="Pandey";
-                String s5="i am learning data fetching";
+                String s5="welcome to git hub ";
 		
 
 		return s1+" "+s2+" "+s3+""+s4+""+s5;
